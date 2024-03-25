@@ -40,9 +40,6 @@ You can install the required dependencies using pip:
 pip install pandas numpy
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
